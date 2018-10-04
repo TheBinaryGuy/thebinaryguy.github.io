@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/thebinaryguy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thebinaryguy.me
+  * I am thebinaryguy (https://keybase.io/thebinaryguy) on keybase.
+  * I have a public key with fingerprint 7700 8836 FFDD 22D6 A38E  0864 742D 4DA3 B2EE 904C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d8dac2369e56b3451a2b5b97b44e1d011d47fac335e4b31bcd4ac46d668b99640a",
+      "fingerprint": "77008836ffdd22d6a38e0864742d4da3b2ee904c",
+      "host": "keybase.io",
+      "key_id": "742d4da3b2ee904c",
+      "kid": "0101d8dac2369e56b3451a2b5b97b44e1d011d47fac335e4b31bcd4ac46d668b99640a",
+      "uid": "5870d02af39b1537e79815cdd32f1d19",
+      "username": "thebinaryguy"
+    },
+    "service": {
+      "hostname": "thebinaryguy.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538644062,
+  "expire_in": 157680000,
+  "prev": "25397641bd301411df874c302f0358c5401d42d3a4414743180d52900c8be406",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJtSBRBGL6z7MpMJCmC+tOW2sdlMzuzu7MKUUZdBFGkfVDRsbsze65n
+d9fd3nWXSZ1FCn1CGYh9EUpFUJYJERUpQmJQ9AVm1J8orIhQwsg+bFbqnz+bP8O8
+7/M887zPTNeUca4s99EteH9O48e77ocd5+Kure2926sFPUxTQnG1EGSjG6uiLGb7
+gxYVigUAAaSEaoaIZJVJso6wBDVRl3RV0TFmkAIIKVZMzUBIYlhHUDco1gwsU1km
+uqrKGGiCVzCtUIBFI1ErZHNZRQGAECSbJqWiSGUNEQaIjBUsUkw1pIuMqQAbnFgR
+jjkMbk7XYqzICvMaP/hH7Y2B/8++46NyElEABaJmIlWHElKYohIoGZQi0YQUqg4w
+xqIhbQfjaLuC6VZIi6YC8ZRQ4xV4J2EZzAnXmWYMVBGveIVINGyHjXAVb1bYdiRW
+7JDtVMRB72K6/6+On9Moj5MzEiwas8IhoRhypGFbjjD3x5PEQBa9AktGrCjzWw5C
+UmQC+HLuYQkuKUpIVWQMdYoAxDwOkyjYQEA0AZKIIWEeIc8XaRhD/jIIEkAlUQXA
+IDrj+oIz2c5QmGsT7lMLcM2YFQhpdjzKhJrO+9vGu9xZrgmZGc4/c2VNyv33+5Yl
+Pb9JwaeWgXs/Pqxve5fuKF35rb7/4MxIb+/mV8KF+oNTh8gTq6d5/rHhS3fSezfm
+n/zp3lCwuuna3tXpFpHWdtxauu9dcHdL2cvBxouHMiFoyShprXtMBzynRr6/Xrbu
+Rhu6iRIN9e+XHxksz5h8uXVG9sLLJbNLz1uNeUXTTi1+WrVJT1Y29SULn9X65vze
+42n2tVae+bLk89vOB4u+XZuO3xzvP3H21+a+oZx64hvX3N3uM18FN857eOH24aHT
+R9vKGjx1fblr5pe9yO/P7t5XOLJ8VfnEdVvqgteff5WvWo9XPMI9OSe1vPGlNXNz
+Niw4cHjWlbUNw8On5a9Luo6r6cqC2DP1D4XtRLY=
+=JgBg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thebinaryguy
+
+==================================================================
+
